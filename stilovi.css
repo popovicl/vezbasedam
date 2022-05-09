@@ -1,0 +1,17 @@
+h1{
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+body{
+    background-color:beige;
+}
+nav ul{
+    background-color: aquamarine;
+}
+.stil{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
